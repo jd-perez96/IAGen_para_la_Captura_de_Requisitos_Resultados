@@ -1,1 +1,1 @@
-# IAGen_para_la_Captura_de_Requisitos_Resultados
+# IA Generativa para la Captura de Requisitos - Resultados
